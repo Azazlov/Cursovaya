@@ -1,0 +1,16 @@
+.container {
+    width: 100%;
+    max-width: 80vw;
+    margin: auto;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+*{
+    text-decoration: none;
+    color: white;
+    scroll-behavior: smooth;
+}
+
+
+
+

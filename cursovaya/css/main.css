@@ -1,0 +1,32 @@
+.main-block{
+    height: 40vw;
+    padding-top: 2rem;
+
+    border-radius: 12px;
+    background: rgba(0,0,0, 0.6);
+    backdrop-filter: blur(10px) saturate(180%);
+    border-radius: 12px;
+    border: 1px solid rgba(43, 43, 43, 0.568);
+    display: flex;
+    box-sizing: border-box;
+    transition: .6s;
+    flex-direction: row-reverse;
+    text-align: center;
+    justify-content: baseline;
+}
+
+.main-block:hover{
+    transition: .6s;
+
+}
+
+.space{
+    height: 7rem;
+}
+
+
+
+
+
+
+
