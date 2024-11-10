@@ -1,0 +1,21 @@
+.header{
+    overflow: hidden;
+    display: flex;
+    background: rgba(0,0,0, 0.6);
+    backdrop-filter: blur(10px) saturate(180%);
+    border-radius: 15px;
+    border: 1px solid rgba(43, 43, 43, 0.568);
+    max-height: 10%;
+    box-sizing:border-box;
+    z-index:99;
+    border-radius: 0px 0px 12px 12px;
+    justify-content: space-between;
+    position: sticky;
+    top: 0;
+    transition: .6s;
+}
+
+.header:hover{
+    transition: .6s;
+
+}

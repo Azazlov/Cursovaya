@@ -1,0 +1,11 @@
+body{
+    background: rgb(214,158,114);
+    background: -moz-linear-gradient(189deg, rgba(214,158,114,1) 0%, rgba(201,188,180,1) 21%, rgba(208,172,145,1) 37%, rgba(211,163,126,1) 61%, rgba(204,181,164,1) 100%);
+    background: -webkit-linear-gradient(189deg, rgba(214,158,114,1) 0%, rgba(201,188,180,1) 21%, rgba(208,172,145,1) 37%, rgba(211,163,126,1) 61%, rgba(204,181,164,1) 100%);
+    background: linear-gradient(189deg, rgba(214,158,114,1) 0%, rgba(201,188,180,1) 21%, rgba(208,172,145,1) 37%, rgba(211,163,126,1) 61%, rgba(204,181,164,1) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#d69e72",endColorstr="#ccb5a4",GradientType=1); 
+    height: auto;
+}
+
+.body-element{
+}
